@@ -1,3 +1,1 @@
-# Agenda
-mini agenda control notas
-Crud with agenda
+"This is a simple CRUD application developed in Java that allows users to create, read, update, and delete data. The executable file can be found in the 'dist' folder. Contributions to the project are welcome and appreciated."
